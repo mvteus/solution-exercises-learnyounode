@@ -1,0 +1,29 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "Learning the Node.js through learnyounode workshop.",
+  "main": "filtered-ls.js",
+  "dependencies": {
+    "bl": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhinoceroshead/solution-exercises-learnyounode.git"
+  },
+  "keywords": [
+    "learn",
+    "node",
+    "module",
+    "workshop"
+  ],
+  "author": "Mateus Souza da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhinoceroshead/solution-exercises-learnyounode/issues"
+  },
+  "homepage": "https://github.com/rhinoceroshead/solution-exercises-learnyounode#readme"
+}
